@@ -13,7 +13,7 @@ main {
 } 
 
 .cabecalho {
-  background-color:black;
+  background-color:rgb(120, 40, 40);
   display: flex; 
   justify-content: space-between; 
   align-items: center; 

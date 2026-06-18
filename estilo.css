@@ -11,11 +11,9 @@ body{
 main { 
   flex: 1; 
 } 
-    background-color:black;
-}
-.cabecalho {
 
-.cabecalho { 
+.cabecalho {
+  background-color:black;
   display: flex; 
   justify-content: space-between; 
   align-items: center; 
